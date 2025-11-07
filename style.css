@@ -1,4 +1,4 @@
-P{
+p {
     color:RED;
     background-color: yellow;
     text-align: center;
@@ -17,7 +17,9 @@ div{
     height: 200px;
     width: 200px;
     background-color: red;
-    padding: 20px;
-    border: 1px solid black;
+    padding: 50px;
+    border: 10px solid black;
+    margin: 25px;
 }
+
     
