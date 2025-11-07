@@ -1,0 +1,23 @@
+P{
+    color:RED;
+    background-color: yellow;
+    text-align: center;
+    
+}
+.p{
+    color: blue;
+    
+    background-color:lightcoral;
+}
+#jk{
+    font-size: large;
+    
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    padding: 20px;
+    border: 1px solid black;
+}
+    
