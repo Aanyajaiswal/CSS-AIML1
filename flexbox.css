@@ -1,0 +1,15 @@
+.container{
+    display: flex;    
+    height: 200px;
+    width: 300px;                        /*flex-direction-row|row-reverse|column|column- reverse*/
+    flex-wrap: wrap-reverse;            /*flexwrap- nowrap|wrap|wrap-reverse*/
+    background-color: aqua;           /*flex-flow- mixing of two properties(flex-direction &flex-wrap)*/
+    border: 1px solid black;
+}
+
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 1px solid black;
+}
